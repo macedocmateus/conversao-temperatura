@@ -47,5 +47,5 @@ jobs:
            file: ./src/Dockerfile
            push: true
            tags: |
-            macedomateus/aula-conversao-temperatura:1.0v
-            macedomateus/aula-conversao-temperatura:latest
+            macedomateus/aula-conversao-temperatura: 1.0v
+            macedomateus/aula-conversao-temperatura: latest
